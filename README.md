@@ -1,4 +1,4 @@
-# IOS-Milestone-Project
+# OverCooked
 ## Table of Contents
 
 1. [Overview](#Overview)
@@ -9,8 +9,8 @@
 ## Overview
 
 ### Description
+An App where people can share their priceless recipes for others to use. Like instagram users can comment, like, and repost
 
-[Description of your app]
 
 ### App Evaluation
 
