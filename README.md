@@ -1,4 +1,4 @@
-[Original App Design Project - README Template.md](https://github.com/user-attachments/files/26446529/Original.App.Design.Project.-.README.Template.md)
+(https://github.com/user-attachments/files/26446529/Original.App.Design.Project.-.README.Template.md)
 ---
 title: Original App Design Project - README Template
 
