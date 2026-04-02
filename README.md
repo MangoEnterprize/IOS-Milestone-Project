@@ -1,7 +1,3 @@
-(https://github.com/user-attachments/files/26446529/Original.App.Design.Project.-.README.Template.md)
----
-title: Original App Design Project - README Template
-
 ---
 
 Original App Design Project - README Template
@@ -78,7 +74,7 @@ An app where people can share their priceless recipes for others to use. Like in
 ## Wireframes
 
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+![68147](https://github.com/user-attachments/assets/28be3731-0d9f-4302-9f0f-04a23e4c8a10)
 
 ### [BONUS] Digital Wireframes & Mockups
 
