@@ -73,16 +73,11 @@ An app where people can share their priceless recipes for others to use. Like in
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
 ![68147](https://github.com/user-attachments/assets/28be3731-0d9f-4302-9f0f-04a23e4c8a10)
 
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
 
 ## Schema 
 
-[This section will be completed in Unit 9]
 
 ### Models
 
@@ -93,3 +88,15 @@ An app where people can share their priceless recipes for others to use. Like in
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
+
+##Milestone 2 Demo
+
+
+https://github.com/user-attachments/assets/13b2c5c7-c8af-484e-a851-f95ab7c562ff
+
+##Final Demo
+
+https://github.com/user-attachments/assets/f98a5598-51e3-4af8-8249-8fd7e845f115
+
+
+
