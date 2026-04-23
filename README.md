@@ -3,7 +3,7 @@
 Original App Design Project - README Template
 ===
 
-# UnderCooked
+# FlavorFeed
 
 ## Table of Contents
 
