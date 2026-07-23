@@ -76,18 +76,6 @@ An app where people can share their priceless recipes for others to use. Like in
 ![68147](https://github.com/user-attachments/assets/28be3731-0d9f-4302-9f0f-04a23e4c8a10)
 
 
-## Schema 
-
-
-### Models
-
-[Add table of models]
-
-### Networking
-
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
 
 ##Milestone 2 Demo
 
