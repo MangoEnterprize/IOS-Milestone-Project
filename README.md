@@ -1,4 +1,8 @@
-# FlavorFeed
+# FlavorFeed 🍎
+
+## Badges
+
+[![Swift Version](https://img.shields.io/badge/Swift-5.8-orange.svg)]() [![Platform](https://img.shields.io/badge/Platform-iOS-blue.svg)]() [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## Table of Contents
 
@@ -109,23 +113,6 @@ FlavorFeed utilizes TheMealDB API for fetching recipe data.
   - **`lookup.php?i=<MealID>`**: Fetches detailed information for a specific meal ID.
 
 Detailed information about TheMealDB API can be found at [https://www.themealdb.com/api.php](https://www.themealdb.com/api.php).
-
-## Contributing 🤝
-
-Contributions are welcome! If you'd like to contribute to FlavorFeed, please follow these guidelines:
-
-1.  **Fork the repository.**
-2.  **Create a new branch** for your feature or bug fix (`git checkout -b feature/your-feature` or `git checkout -b bugfix/your-bug`).
-3.  **Make your changes** and commit them (`git commit -am 'Add some feature'`)
-4.  **Push to the branch** (`git push origin feature/your-feature`)
-5.  **Submit a new Pull Request.**
-
-
-We appreciate all contributions that help improve the project. Please ensure your code adheres to the project's coding style and conventions. 🙏
-
-## License 📜
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Important Links 🔗
 
